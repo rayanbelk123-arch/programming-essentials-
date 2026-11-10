@@ -1,0 +1,7 @@
+fullScreen();
+background(10, 150, 100);
+fill(30, 200, 80);
+circle(224, 184, 220);
+fill(255, 60, 100);
+textSize(64);
+text("rayan", 120, 200);
