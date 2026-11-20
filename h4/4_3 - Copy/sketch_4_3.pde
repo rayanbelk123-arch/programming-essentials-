@@ -4,4 +4,4 @@ println(score);
 score /= 75;
 println(score);
 score -= 25;
-println(getal);
+println(score);
